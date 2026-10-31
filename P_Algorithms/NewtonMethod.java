@@ -1,4 +1,4 @@
-package sixseven;
+package P_Algorithms;
 
 public class NewtonMethod {
     public static double NewTon(Function f, Function df, double y0, double x, int maxIt, double accuracy){

@@ -1,4 +1,4 @@
-package sixseven;
+package P_Algorithms;
 
 class Graf {
     class Edge {
